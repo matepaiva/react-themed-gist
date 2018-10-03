@@ -6,7 +6,10 @@
   "scripts": {
     "start": "webpack-dev-server --mode development",
     "transpile": "babel src -d dist --copy-files",
-    "prepublishOnly": "npm run transpile"
+    "prepublishOnly": "npm run transpile",
+    "build": "webpack --mode production",
+    "deploy": "gh-pages -d examples/dist",
+    "publish-demo": "npm run build && npm run deploy"
   },
   "keywords": [],
   "author": "matepaiva",
@@ -29,6 +32,7 @@
     "babel-preset-env": "^1.7.0",
     "babel-preset-react": "^6.24.1",
     "css-loader": "^1.0.0",
+    "gh-pages": "^2.0.0",
     "html-webpack-plugin": "^3.2.0",
     "react": "^16.5.2",
     "react-dom": "^16.5.2",
