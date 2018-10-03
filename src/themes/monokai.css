@@ -1,0 +1,145 @@
+.monokai .gist .highlight {
+    background: #272822;
+}
+.monokai .gist .blob-num,
+.monokai .gist .blob-code-inner,
+.monokai .gist .pl-s2,
+.monokai .gist .pl-stj {
+    color: #f8f8f2;
+}
+.monokai .gist .pl-c1 {
+    color: #ae81ff;
+}
+.monokai .gist .pl-enti {
+    color: #a6e22e;
+    font-weight: 700;
+}
+.monokai .gist .pl-st {
+    color: #66d9ef;
+}
+.monokai .gist .pl-mdr {
+    color: #66d9ef;
+    font-weight: 400;
+}
+.monokai .gist .pl-ms1 {
+    background: #fd971f;
+}
+.monokai .gist .pl-c,
+.monokai .gist .pl-c span,
+.monokai .gist .pl-pdc {
+    color: #75715e;
+    font-style: italic;
+}
+.monokai .gist .pl-cce,
+.monokai .gist .pl-cn,
+.monokai .gist .pl-coc,
+.monokai .gist .pl-enc,
+.monokai .gist .pl-ens,
+.monokai .gist .pl-kos,
+.monokai .gist .pl-kou,
+.monokai .gist .pl-mh .pl-pdh,
+.monokai .gist .pl-mp,
+.monokai .gist .pl-mp1 .pl-sf,
+.monokai .gist .pl-mq,
+.monokai .gist .pl-pde,
+.monokai .gist .pl-pse,
+.monokai .gist .pl-pse .pl-s2,
+.monokai .gist .pl-mp .pl-s3,
+.monokai .gist .pl-smi,
+.monokai .gist .pl-stp,
+.monokai .gist .pl-sv,
+.monokai .gist .pl-v,
+.monokai .gist .pl-vi,
+.monokai .gist .pl-vpf,
+.monokai .gist .pl-mri,
+.monokai .gist .pl-va,
+.monokai .gist .pl-vpu {
+    color: #66d9ef;
+}
+.monokai .gist .pl-cos,
+.monokai .gist .pl-ml,
+.monokai .gist .pl-pds,
+.monokai .gist .pl-s,
+.monokai .gist .pl-s1,
+.monokai .gist .pl-sol {
+    color: #e6db74;
+}
+.monokai .gist .pl-e,
+.monokai .gist .pl-ef,
+.monokai .gist .pl-en,
+.monokai .gist .pl-enf,
+.monokai .gist .pl-enm,
+.monokai .gist .pl-entc,
+.monokai .gist .pl-entm,
+.monokai .gist .pl-eoac,
+.monokai .gist .pl-eoac .pl-pde,
+.monokai .gist .pl-eoi,
+.monokai .gist .pl-mai .pl-sf,
+.monokai .gist .pl-mm,
+.monokai .gist .pl-pdv,
+.monokai .gist .pl-som,
+.monokai .gist .pl-sr,
+.monokai .gist .pl-vo {
+    color: #a6e22e;
+}
+.monokai .gist .pl-ent,
+.monokai .gist .pl-eoa,
+.monokai .gist .pl-eoai,
+.monokai .gist .pl-eoai .pl-pde,
+.monokai .gist .pl-k,
+.monokai .gist .pl-ko,
+.monokai .gist .pl-kolp,
+.monokai .gist .pl-mc,
+.monokai .gist .pl-mr,
+.monokai .gist .pl-ms,
+.monokai .gist .pl-s3,
+.monokai .gist .pl-smc,
+.monokai .gist .pl-smp,
+.monokai .gist .pl-sok,
+.monokai .gist .pl-sra,
+.monokai .gist .pl-src,
+.monokai .gist .pl-sre {
+    color: #f92672;
+}
+.monokai .gist .pl-mb,
+.monokai .gist .pl-pdb {
+    color: #e6db74;
+    font-weight: 700;
+}
+.monokai .gist .pl-mi,
+.monokai .gist .pl-pdi {
+    color: #f92672;
+    font-style: italic;
+}
+.monokai .gist .pl-pdc1,
+.monokai .gist .pl-scp {
+    color: #ae81ff;
+}
+.monokai .gist .pl-sc,
+.monokai .gist .pl-sf,
+.monokai .gist .pl-mo,
+.monokai .gist .pl-entl {
+    color: #fd971f;
+}
+.monokai .gist .pl-mi1,
+.monokai .gist .pl-mdht {
+    color: #a6e22e;
+    background: rgba(0, 64, 0, .5);
+}
+.monokai .gist .pl-md,
+.monokai .gist .pl-mdhf {
+    color: #f92672;
+    background: rgba(64, 0, 0, .5);
+}
+.monokai .gist .pl-mdh,
+.monokai .gist .pl-mdi {
+    color: #a6e22e;
+    font-weight: 400;
+}
+.monokai .gist .pl-ib,
+.monokai .gist .pl-id,
+.monokai .gist .pl-ii,
+.monokai .gist .pl-iu {
+    background: #a6e22e;
+    color: #272822;
+}

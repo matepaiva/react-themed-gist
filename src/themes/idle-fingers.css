@@ -1,0 +1,143 @@
+.idle-fingers .gist .highlight {
+    background: #323232;
+}
+.idle-fingers .gist .blob-num,
+.idle-fingers .gist .blob-code-inner,
+.idle-fingers .gist .pl-s2,
+.idle-fingers .gist .pl-stj,
+.idle-fingers .gist .pl-vo,
+.idle-fingers .gist .pl-id,
+.idle-fingers .gist .pl-ii {
+     color: #fff;
+}
+.idle-fingers .gist .pl-enti,
+.idle-fingers .gist .pl-mb,
+.idle-fingers .gist .pl-pdb {
+     font-weight: 700;
+}
+.idle-fingers .gist .pl-c,
+.idle-fingers .gist .pl-c span,
+.idle-fingers .gist .pl-pdc {
+     color: #bc9458;
+     font-style: italic;
+}
+.idle-fingers .gist .pl-c1,
+.idle-fingers .gist .pl-pdc1,
+.idle-fingers .gist .pl-scp {
+     color: #6c99bb;
+}
+.idle-fingers .gist .pl-ent,
+.idle-fingers .gist .pl-eoa,
+.idle-fingers .gist .pl-eoai,
+.idle-fingers .gist .pl-eoai .pl-pde,
+.idle-fingers .gist .pl-ko,
+.idle-fingers .gist .pl-kolp,
+.idle-fingers .gist .pl-mc,
+.idle-fingers .gist .pl-mr,
+.idle-fingers .gist .pl-ms,
+.idle-fingers .gist .pl-s3,
+.idle-fingers .gist .pl-sok {
+     color: #ffe5bb;
+}
+.idle-fingers .gist .pl-mdh,
+.idle-fingers .gist .pl-mdi,
+.idle-fingers .gist .pl-mdr {
+     font-weight: 400;
+}
+.idle-fingers .gist .pl-mi,
+.idle-fingers .gist .pl-pdi {
+     color: #ffe5bb;
+     font-style: italic;
+}
+.idle-fingers .gist .pl-sra,
+.idle-fingers .gist .pl-src,
+.idle-fingers .gist .pl-sre {
+     color: #cc3;
+}
+.idle-fingers .gist .pl-mdht,
+.idle-fingers .gist .pl-mi1 {
+     color: #a5c261;
+     background: rgba(0, 64, 0, .5);
+}
+.idle-fingers .gist .pl-md,
+.idle-fingers .gist .pl-mdhf {
+     color: #b83426;
+     background: rgba(64, 0, 0, .5);
+}
+.idle-fingers .gist .pl-ib,
+.idle-fingers .gist .pl-id,
+.idle-fingers .gist .pl-ii,
+.idle-fingers .gist .pl-iu {
+     background: #b83426;
+}
+.idle-fingers .gist .pl-ms1 {
+     background: #ffc66d;
+}
+.idle-fingers .gist .highlight-text-html-basic .pl-ent,
+.idle-fingers .gist .pl-cce,
+.idle-fingers .gist .pl-cn,
+.idle-fingers .gist .pl-coc,
+.idle-fingers .gist .pl-enc,
+.idle-fingers .gist .pl-ens,
+.idle-fingers .gist .pl-k,
+.idle-fingers .gist .pl-kos,
+.idle-fingers .gist .pl-kou,
+.idle-fingers .gist .pl-mh .pl-pdh,
+.idle-fingers .gist .pl-mp,
+.idle-fingers .gist .pl-mp .pl-s3,
+.idle-fingers .gist .pl-mp1 .pl-sf,
+.idle-fingers .gist .pl-mq,
+.idle-fingers .gist .pl-mri,
+.idle-fingers .gist .pl-pde,
+.idle-fingers .gist .pl-pse,
+.idle-fingers .gist .pl-pse .pl-s2,
+.idle-fingers .gist .pl-s,
+.idle-fingers .gist .pl-st,
+.idle-fingers .gist .pl-stp,
+.idle-fingers .gist .pl-sv,
+.idle-fingers .gist .pl-v,
+.idle-fingers .gist .pl-va,
+.idle-fingers .gist .pl-vi,
+.idle-fingers .gist .pl-vpf,
+.idle-fingers .gist .pl-vpu,
+.idle-fingers .gist .pl-mdr {
+     color: #cc7833;
+}
+.idle-fingers .gist .pl-cos,
+.idle-fingers .gist .pl-ml,
+.idle-fingers .gist .pl-pds,
+.idle-fingers .gist .pl-s1,
+.idle-fingers .gist .pl-sol,
+.idle-fingers .gist .pl-mb,
+.idle-fingers .gist .pl-pdb {
+     color: #a5c261;
+}
+.idle-fingers .gist .pl-e,
+.idle-fingers .gist .pl-en,
+.idle-fingers .gist .pl-entl,
+.idle-fingers .gist .pl-mo,
+.idle-fingers .gist .pl-sc,
+.idle-fingers .gist .pl-sf,
+.idle-fingers .gist .pl-smi,
+.idle-fingers .gist .pl-smp,
+.idle-fingers .gist .pl-mdh,
+.idle-fingers .gist .pl-mdi {
+     color: #ffc66d;
+}
+.idle-fingers .gist .pl-ef,
+.idle-fingers .gist .pl-enf,
+.idle-fingers .gist .pl-enm,
+.idle-fingers .gist .pl-entc,
+.idle-fingers .gist .pl-entm,
+.idle-fingers .gist .pl-eoac,
+.idle-fingers .gist .pl-eoac .pl-pde,
+.idle-fingers .gist .pl-eoi,
+.idle-fingers .gist .pl-mai .pl-sf,
+.idle-fingers .gist .pl-mm,
+.idle-fingers .gist .pl-pdv,
+.idle-fingers .gist .pl-smc,
+.idle-fingers .gist .pl-som,
+.idle-fingers .gist .pl-sr,
+.idle-fingers .gist .pl-enti {
+     color: #b83426;
+}

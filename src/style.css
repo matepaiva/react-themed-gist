@@ -1,0 +1,22 @@
+/* https://github.com/lonekorean/gist-syntax-themes */
+@import './themes/chaos.css';
+@import './themes/cobalt.css';
+@import './themes/idle-fingers.css';
+@import './themes/monokai.css';
+@import './themes/obsidian.css';
+@import './themes/one-dark.css';
+@import './themes/pastel-on-dark.css';
+@import './themes/solarized-dark.css';
+@import './themes/solarized-light.css';
+@import './themes/terminal.css';
+@import './themes/tomorrow-night.css';
+@import './themes/twilight.css';
+
+.themed-gist {
+  margin: 20px;
+  font: 16px 'Open Sans', sans-serif;
+}
+
+.hide-meta .gist-meta {
+  display: none;
+}

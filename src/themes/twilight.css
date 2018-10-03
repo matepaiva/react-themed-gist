@@ -1,0 +1,159 @@
+.twilight .gist .highlight {
+    background: #141414;
+}
+.twilight .gist .blob-num,
+.twilight .gist .blob-code-inner,
+.twilight .gist .pl-s2,
+.twilight .gist .pl-smi,
+.twilight .gist .pl-smp,
+.twilight .gist .pl-entl {
+    color: #ccc;
+}
+.twilight .gist .pl-enti {
+    color: #ac885b;
+    font-weight: 700;
+}
+.twilight .gist .pl-mp {
+    color: #c5af75;
+}
+.twilight .gist .pl-s {
+    color: #f9ee98;
+}
+.twilight .gist .pl-ib {
+    background: #f93;
+}
+.twilight .gist .pl-id {
+    background: #a31515;
+    color: #fff;
+}
+.twilight .gist .pl-ii {
+    background: #df5000;
+    color: #fff;
+}
+.twilight .gist .pl-iu {
+    background: #b4b7b4;
+}
+.twilight .gist .pl-mo {
+    color: #969896;
+}
+.twilight .gist .pl-ms1 {
+    background: #f5f5f5;
+}
+.twilight .gist .pl-c,
+.twilight .gist .pl-c span,
+.twilight .gist .pl-pdc {
+    color: #5f5a60;
+    font-style: italic;
+}
+.twilight .gist .pl-c1,
+.twilight .gist .pl-cn,
+.twilight .gist .pl-coc,
+.twilight .gist .pl-enc,
+.twilight .gist .pl-ens,
+.twilight .gist .pl-kos,
+.twilight .gist .pl-kou,
+.twilight .gist .pl-mh .pl-pdh,
+.twilight .gist .pl-mq,
+.twilight .gist .pl-pdc1,
+.twilight .gist .pl-pde,
+.twilight .gist .pl-pse,
+.twilight .gist .pl-pse .pl-s2,
+.twilight .gist .pl-scp,
+.twilight .gist .pl-vi {
+    color: #cf6a4c;
+}
+.twilight .gist .pl-cce,
+.twilight .gist .pl-mh,
+.twilight .gist .pl-mdr {
+    color: #cf6a4c;
+    font-weight: 400;
+}
+.twilight .gist .pl-cos,
+.twilight .gist .pl-ml,
+.twilight .gist .pl-pds,
+.twilight .gist .pl-s1,
+.twilight .gist .pl-sol {
+    color: #8f9d6a;
+}
+.twilight .gist .pl-e,
+.twilight .gist .pl-ef,
+.twilight .gist .pl-en,
+.twilight .gist .pl-enf,
+.twilight .gist .pl-enm,
+.twilight .gist .pl-entc,
+.twilight .gist .pl-eoi,
+.twilight .gist .pl-smc,
+.twilight .gist .pl-vo {
+    color: #ac885b;
+}
+.twilight .gist .pl-ent,
+.twilight .gist .pl-eoa,
+.twilight .gist .pl-eoai,
+.twilight .gist .pl-eoai .pl-pde,
+.twilight .gist .pl-k,
+.twilight .gist .pl-ko,
+.twilight .gist .pl-kolp,
+.twilight .gist .pl-mc,
+.twilight .gist .pl-mr,
+.twilight .gist .pl-ms,
+.twilight .gist .pl-mp .pl-s3,
+.twilight .gist .pl-sok,
+.twilight .gist .pl-sra,
+.twilight .gist .pl-src,
+.twilight .gist .pl-sre,
+.twilight .gist .pl-st {
+    color: #cda869;
+}
+.twilight .gist .pl-entm,
+.twilight .gist .pl-eoac,
+.twilight .gist .pl-eoac .pl-pde,
+.twilight .gist .pl-mai .pl-sf,
+.twilight .gist .pl-mm,
+.twilight .gist .pl-pdv,
+.twilight .gist .pl-som,
+.twilight .gist .pl-sr,
+.twilight .gist .pl-stj,
+.twilight .gist .pl-vpf {
+    color: #7587a6;
+}
+.twilight .gist .pl-mb,
+.twilight .gist .pl-pdb {
+    color: #8f9d6a;
+    font-weight: 700;
+}
+.twilight .gist .pl-mi,
+.twilight .gist .pl-pdi {
+    color: #cda869;
+    font-style: italic;
+}
+.twilight .gist .pl-mp1 .pl-sf,
+.twilight .gist .pl-s3,
+.twilight .gist .pl-sc,
+.twilight .gist .pl-sf {
+    color: #dad085;
+}
+.twilight .gist .pl-stp,
+.twilight .gist .pl-sv,
+.twilight .gist .pl-v {
+    color: #9b859d;
+}
+.twilight .gist .pl-mi1,
+.twilight .gist .pl-mdht {
+    color: #55a532;
+    background: #020;
+}
+.twilight .gist .pl-md,
+.twilight .gist .pl-mdhf {
+    color: #bd2c00;
+    background: #200;
+}
+.twilight .gist .pl-mdh,
+.twilight .gist .pl-mdi {
+    color: #7587a6;
+    font-weight: 400;
+}
+.twilight .gist .pl-mri,
+.twilight .gist .pl-va,
+.twilight .gist .pl-vpu {
+    color: teal;
+}

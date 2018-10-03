@@ -1,0 +1,88 @@
+.solarized-light .gist .highlight {
+    background: #fdf6e3;
+}
+.solarized-light .gist .blob-num,
+.solarized-light .gist .blob-code-inner,
+.solarized-light .gist .pl-s1 .pl-s2,
+.solarized-light .gist .pl-smi,
+.solarized-light .gist .pl-smp,
+.solarized-light .gist .pl-stj,
+.solarized-light .gist .pl-vo,
+.solarized-light .gist .pl-vpf {
+    color: #657b83;
+}
+.solarized-light .gist .pl-c,
+.solarized-light .gist .pl-c span {
+    color: #93a1a1;
+    font-style: italic;
+}
+.solarized-light .gist .pl-mb {
+    color: #2aa198;
+    font-weight: 700;
+}
+.solarized-light .gist .pl-mh .pl-en {
+    color: #cb4b16;
+    font-weight: 700;
+}
+.solarized-light .gist .pl-mi {
+    color: #859900;
+    font-style: italic;
+}
+.solarized-light .gist .pl-c1,
+.solarized-light .gist .pl-pds,
+.solarized-light .gist .pl-s1,
+.solarized-light .gist .pl-s1 .pl-pse .pl-s2,
+.solarized-light .gist .pl-sv {
+    color: #2aa198;
+}
+.solarized-light .gist .pl-e,
+.solarized-light .gist .pl-en,
+.solarized-light .gist .pl-ent,
+.solarized-light .gist .pl-s,
+.solarized-light .gist .pl-v {
+    color: #268bd2;
+}
+.solarized-light .gist .pl-k,
+.solarized-light .gist .pl-mdh,
+.solarized-light .gist .pl-mdr,
+.solarized-light .gist .pl-ml,
+.solarized-light .gist .pl-mm,
+.solarized-light .gist .pl-mo,
+.solarized-light .gist .pl-mp,
+.solarized-light .gist .pl-mr,
+.solarized-light .gist .pl-ms,
+.solarized-light .gist .pl-s1 .pl-v,
+.solarized-light .gist .pl-s3 {
+    color: #859900;
+}
+.solarized-light .gist .pl-mh,
+.solarized-light .gist .pl-sc,
+.solarized-light .gist .pl-sr .pl-cce {
+    color: #cb4b16;
+}
+.solarized-light .gist .pl-mq,
+.solarized-light .gist .highlight-source-css .pl-k {
+    color: #93a1a1;
+}
+.solarized-light .gist .pl-sr,
+.solarized-light .gist .pl-sr .pl-sra,
+.solarized-light .gist .pl-sr .pl-sre,
+.solarized-light .gist .pl-src {
+    color: #d30102;
+}
+.solarized-light .gist .pl-st,
+.solarized-light .gist .highlight-source-c\+\+ .pl-s {
+    color: #dc322f;
+}
+.solarized-light .gist .pl-mi1,
+.solarized-light .gist .pl-mdht {
+    color: #657b83;
+    background: rgba(0, 64, 0, .5);
+}
+.solarized-light .gist .pl-md,
+.solarized-light .gist .pl-mdhf,
+.solarized-light .gist .pl-id,
+.solarized-light .gist .pl-ii {
+    color: #657b83;
+    background: rgba(64, 0, 0, .5);
+}

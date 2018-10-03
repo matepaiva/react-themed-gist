@@ -1,0 +1,160 @@
+.pastel-on-dark .gist .highlight {
+    background: #2c2828;
+}
+.pastel-on-dark .gist .blob-num,
+.pastel-on-dark .gist .blob-code-inner,
+.pastel-on-dark .gist .pl-e,
+.pastel-on-dark .gist .pl-eoa,
+.pastel-on-dark .gist .pl-eoai,
+.pastel-on-dark .gist .pl-eoai .pl-pde,
+.pastel-on-dark .gist .pl-ko,
+.pastel-on-dark .gist .pl-kolp,
+.pastel-on-dark .gist .pl-mc,
+.pastel-on-dark .gist .pl-mr,
+.pastel-on-dark .gist .pl-ms,
+.pastel-on-dark .gist .pl-s3,
+.pastel-on-dark .gist .pl-sok {
+    color: #e6e1dc;
+}
+.pastel-on-dark .gist .pl-cce {
+    color: #afa472;
+}
+.pastel-on-dark .gist .pl-cn {
+    color: #ccc;
+}
+.pastel-on-dark .gist .pl-enti {
+    color: #aeb2f8;
+    font-weight: 700;
+}
+.pastel-on-dark .gist .pl-sra {
+    color: #797878;
+}
+.pastel-on-dark .gist .pl-mdr {
+    color: #757ad8;
+    font-weight: 400;
+}
+.pastel-on-dark .gist .pl-ms1 {
+    background: #bebf55;
+}
+.pastel-on-dark .gist .pl-c,
+.pastel-on-dark .gist .pl-c span,
+.pastel-on-dark .gist .pl-pdc {
+    color: #a6c6ff;
+    font-style: italic;
+}
+.pastel-on-dark .gist .pl-c1,
+.pastel-on-dark .gist .pl-st,
+.pastel-on-dark .gist .pl-vo {
+    color: #a5c261;
+}
+.pastel-on-dark .gist .pl-coc,
+.pastel-on-dark .gist .pl-en,
+.pastel-on-dark .gist .pl-enc,
+.pastel-on-dark .gist .pl-ens,
+.pastel-on-dark .gist .pl-k,
+.pastel-on-dark .gist .pl-kos,
+.pastel-on-dark .gist .pl-kou,
+.pastel-on-dark .gist .pl-mh .pl-pdh,
+.pastel-on-dark .gist .pl-mp,
+.pastel-on-dark .gist .pl-mp1 .pl-sf,
+.pastel-on-dark .gist .pl-mq,
+.pastel-on-dark .gist .pl-pde,
+.pastel-on-dark .gist .pl-pse,
+.pastel-on-dark .gist .pl-pse .pl-s2,
+.pastel-on-dark .gist .pl-s,
+.pastel-on-dark .gist .pl-mp .pl-s3,
+.pastel-on-dark .gist .pl-sc,
+.pastel-on-dark .gist .pl-stp,
+.pastel-on-dark .gist .pl-sv,
+.pastel-on-dark .gist .pl-v,
+.pastel-on-dark .gist .pl-vi,
+.pastel-on-dark .gist .pl-vpf,
+.pastel-on-dark .gist .pl-mri,
+.pastel-on-dark .gist .pl-va,
+.pastel-on-dark .gist .pl-vpu,
+.pastel-on-dark .gist .highlight-text-tex .pl-s3 {
+    color: #757ad8;
+}
+.pastel-on-dark .gist .pl-cos,
+.pastel-on-dark .gist .pl-ml,
+.pastel-on-dark .gist .pl-sol {
+    color: #66a968;
+}
+.pastel-on-dark .gist .pl-ef,
+.pastel-on-dark .gist .pl-enf,
+.pastel-on-dark .gist .pl-enm,
+.pastel-on-dark .gist .pl-entc,
+.pastel-on-dark .gist .pl-entm,
+.pastel-on-dark .gist .pl-eoac,
+.pastel-on-dark .gist .pl-eoac .pl-pde,
+.pastel-on-dark .gist .pl-eoi,
+.pastel-on-dark .gist .pl-mai .pl-sf,
+.pastel-on-dark .gist .pl-mm,
+.pastel-on-dark .gist .pl-pdv,
+.pastel-on-dark .gist .pl-smc,
+.pastel-on-dark .gist .pl-som,
+.pastel-on-dark .gist .pl-sr {
+    color: #aeb2f8;
+}
+.pastel-on-dark .gist .pl-ent,
+.pastel-on-dark .gist .highlight-text-html-basic .pl-e {
+    color: #6782d3;
+}
+.pastel-on-dark .gist .pl-mb,
+.pastel-on-dark .gist .pl-pdb {
+    color: #66a968;
+    font-weight: 700;
+}
+.pastel-on-dark .gist .pl-mi,
+.pastel-on-dark .gist .pl-pdi {
+    color: #e6e1dc;
+    font-style: italic;
+}
+.pastel-on-dark .gist .pl-pdc1,
+.pastel-on-dark .gist .pl-scp {
+    color: #4fb7c5;
+}
+.pastel-on-dark .gist .pl-pds,
+.pastel-on-dark .gist .pl-s1,
+.pastel-on-dark .gist .highlight-source-css .pl-v {
+    color: #ad9361;
+}
+.pastel-on-dark .gist .pl-s2,
+.pastel-on-dark .gist .pl-stj {
+    color: #8f938f;
+}
+.pastel-on-dark .gist .pl-sf,
+.pastel-on-dark .gist .pl-smi,
+.pastel-on-dark .gist .pl-smp,
+.pastel-on-dark .gist .pl-mo,
+.pastel-on-dark .gist .pl-entl {
+    color: #bebf55;
+}
+.pastel-on-dark .gist .pl-src,
+.pastel-on-dark .gist .pl-sre {
+    color: #e9c062;
+}
+.pastel-on-dark .gist .pl-mi1,
+.pastel-on-dark .gist .pl-mdht {
+    color: #66a968;
+    background: rgba(0, 64, 0, .5);
+}
+.pastel-on-dark .gist .pl-md,
+.pastel-on-dark .gist .pl-mdhf {
+    color: #aeb2f8;
+    background: rgba(64, 0, 0, .5);
+}
+.pastel-on-dark .gist .pl-mdh,
+.pastel-on-dark .gist .pl-mdi {
+    color: #bebf55;
+    font-weight: 400;
+}
+.pastel-on-dark .gist .pl-ib,
+.pastel-on-dark .gist .pl-iu {
+    background: #aeb2f8;
+}
+.pastel-on-dark .gist .pl-id,
+.pastel-on-dark .gist .pl-ii {
+    background: #aeb2f8;
+    color: #fff;
+}
