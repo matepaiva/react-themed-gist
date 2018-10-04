@@ -1,0 +1,90 @@
+.chaos .gist .highlight {
+    background: #161616;
+}
+.chaos .gist .blob-num,
+.chaos .gist .blob-code-inner,
+.chaos .gist .pl-st {
+    color: #e6e1dc;
+}
+.chaos .gist .pl-c,
+.chaos .gist .pl-c span {
+    color: #555;
+    font-style: italic;
+}
+.chaos .gist .pl-mb {
+    color: #1edafb;
+    font-weight: 700;
+}
+.chaos .gist .pl-mh .pl-en {
+    color: #fdc251;
+    font-weight: 700;
+}
+.chaos .gist .pl-mi {
+    color: #00698f;
+    font-style: italic;
+}
+.chaos .gist .pl-mq {
+    color: #555;
+}
+.chaos .gist .pl-sc {
+    color: #999;
+}
+.chaos .gist .pl-c1,
+.chaos .gist .pl-mh,
+.chaos .gist .pl-sr .pl-cce {
+    color: #fdc251;
+}
+.chaos .gist .pl-e,
+.chaos .gist .pl-en,
+.chaos .gist .pl-ent,
+.chaos .gist .pl-s,
+.chaos .gist .pl-v,
+.chaos .gist .pl-vpf {
+    color: #974;
+}
+.chaos .gist .pl-k,
+.chaos .gist .pl-mdh,
+.chaos .gist .pl-mdr,
+.chaos .gist .pl-ml,
+.chaos .gist .pl-mm,
+.chaos .gist .pl-mo,
+.chaos .gist .pl-mp,
+.chaos .gist .pl-mr,
+.chaos .gist .pl-ms,
+.chaos .gist .pl-s1 .pl-v,
+.chaos .gist .pl-s3 {
+    color: #00698f;
+}
+.chaos .gist .pl-pds,
+.chaos .gist .pl-s1,
+.chaos .gist .pl-s1 .pl-pse .pl-s2 {
+    color: #58c554;
+}
+.chaos .gist .pl-s1 .pl-s2,
+.chaos .gist .pl-sv {
+    color: #1edafb;
+}
+.chaos .gist .pl-smi,
+.chaos .gist .pl-smp,
+.chaos .gist .pl-stj,
+.chaos .gist .pl-vo {
+    color: #be53e6;
+}
+.chaos .gist .pl-sr,
+.chaos .gist .pl-sr .pl-sra,
+.chaos .gist .pl-sr .pl-sre,
+.chaos .gist .pl-src {
+    color: #ff308f;
+}
+.chaos .gist .pl-mi1,
+.chaos .gist .pl-mdht {
+    color: #fff;
+    background: rgba(0, 64, 0, .5);
+}
+.chaos .gist .pl-md,
+.chaos .gist .pl-mdhf,
+.chaos .gist .pl-id,
+.chaos .gist .pl-ii {
+    color: #fff;
+    background: #900;
+}

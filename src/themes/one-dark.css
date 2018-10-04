@@ -1,0 +1,154 @@
+.one-dark .gist .highlight {
+    background: #141414;
+}
+.one-dark .gist .blob-num,
+.one-dark .gist .blob-code-inner,
+.one-dark .gist .highlight,
+.one-dark .gist .pl-enm,
+.one-dark .gist .pl-ko,
+.one-dark .gist .pl-mo,
+.one-dark .gist .pl-mp1 .pl-sf,
+.one-dark .gist .pl-ms,
+.one-dark .gist .pl-pdc1,
+.one-dark .gist .pl-scp,
+.one-dark .gist .pl-smc,
+.one-dark .gist .pl-som,
+.one-dark .gist .pl-va,
+.one-dark .gist .pl-vpf,
+.one-dark .gist .pl-vpu,
+.one-dark .gist .pl-mdr {
+     color: #aab1bf;
+}
+.one-dark .gist .pl-mb,
+.one-dark .gist .pl-pdb {
+     font-weight: 700;
+}
+.one-dark .gist .pl-c,
+.one-dark .gist .pl-c span,
+.one-dark .gist .pl-pdc {
+     color: #5b6270;
+     font-style: italic;
+}
+.one-dark .gist .pl-sr .pl-cce {
+     color: #56b5c2;
+     font-weight: 400;
+}
+.one-dark .gist .pl-ef,
+.one-dark .gist .pl-en,
+.one-dark .gist .pl-enf,
+.one-dark .gist .pl-eoai,
+.one-dark .gist .pl-kos,
+.one-dark .gist .pl-mh .pl-pdh,
+.one-dark .gist .pl-mr {
+     color: #61afef;
+}
+.one-dark .gist .pl-ens,
+.one-dark .gist .pl-vi {
+     color: #be5046;
+}
+.one-dark .gist .pl-enti,
+.one-dark .gist .pl-mai .pl-sf,
+.one-dark .gist .pl-ml,
+.one-dark .gist .pl-sf,
+.one-dark .gist .pl-sr,
+.one-dark .gist .pl-sr .pl-sra,
+.one-dark .gist .pl-src,
+.one-dark .gist .pl-st,
+.one-dark .gist .pl-vo {
+     color: #56b5c2;
+}
+.one-dark .gist .pl-eoi,
+.one-dark .gist .pl-mri,
+.one-dark .gist .pl-pds,
+.one-dark .gist .pl-pse .pl-s1,
+.one-dark .gist .pl-s,
+.one-dark .gist .pl-s1 {
+     color: #97c279;
+}
+.one-dark .gist .pl-k,
+.one-dark .gist .pl-kolp,
+.one-dark .gist .pl-mc,
+.one-dark .gist .pl-pde {
+     color: #c578dd;
+}
+.one-dark .gist .pl-mi,
+.one-dark .gist .pl-pdi {
+     color: #c578dd;
+     font-style: italic;
+}
+.one-dark .gist .pl-mp,
+.one-dark .gist .pl-stp {
+     color: #818896;
+}
+.one-dark .gist .pl-mdh,
+.one-dark .gist .pl-mdi,
+.one-dark .gist .pl-mdr {
+     font-weight: 400;
+}
+.one-dark .gist .pl-mdht,
+.one-dark .gist .pl-mi1 {
+     color: #97c279;
+     background: #020;
+}
+.one-dark .gist .pl-md,
+.one-dark .gist .pl-mdhf {
+     color: #df6b75;
+     background: #200;
+}
+.one-dark .gist .pl-corl {
+     color: #df6b75;
+     text-decoration: underline;
+}
+.one-dark .gist .pl-ib {
+     background: #df6b75;
+}
+.one-dark .gist .pl-ii {
+     background: #e0c184;
+     color: #fff;
+}
+.one-dark .gist .pl-iu {
+     background: #e05151;
+}
+.one-dark .gist .pl-ms1 {
+     color: #aab1bf;
+     background: #373b41;
+}
+.one-dark .gist .pl-c1,
+.one-dark .gist .pl-cn,
+.one-dark .gist .pl-e,
+.one-dark .gist .pl-eoa,
+.one-dark .gist .pl-eoac,
+.one-dark .gist .pl-eoac .pl-pde,
+.one-dark .gist .pl-kou,
+.one-dark .gist .pl-mm,
+.one-dark .gist .pl-mp .pl-s3,
+.one-dark .gist .pl-mq,
+.one-dark .gist .pl-s3,
+.one-dark .gist .pl-sok,
+.one-dark .gist .pl-sv,
+.one-dark .gist .pl-mb {
+     color: #d19965;
+}
+.one-dark .gist .pl-enc,
+.one-dark .gist .pl-entc,
+.one-dark .gist .pl-pse .pl-s2,
+.one-dark .gist .pl-s2,
+.one-dark .gist .pl-sc,
+.one-dark .gist .pl-smp,
+.one-dark .gist .pl-sr .pl-sre,
+.one-dark .gist .pl-stj,
+.one-dark .gist .pl-v,
+.one-dark .gist .pl-pdb {
+     color: #e4bf7a;
+}
+.one-dark .gist .pl-ent,
+.one-dark .gist .pl-entl,
+.one-dark .gist .pl-entm,
+.one-dark .gist .pl-mh,
+.one-dark .gist .pl-pdv,
+.one-dark .gist .pl-smi,
+.one-dark .gist .pl-sol,
+.one-dark .gist .pl-mdh,
+.one-dark .gist .pl-mdi {
+     color: #df6b75;
+}

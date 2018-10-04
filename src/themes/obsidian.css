@@ -1,0 +1,91 @@
+.obsidian .gist .highlight {
+    background: #293134;
+}
+.obsidian .gist .blob-num,
+.obsidian .gist .blob-code-inner,
+.obsidian .gist .pl-ent,
+.obsidian .gist .pl-s1,
+.obsidian .gist .pl-s1 .pl-s2,
+.obsidian .gist .pl-smi,
+.obsidian .gist .pl-smp,
+.obsidian .gist .pl-stj,
+.obsidian .gist .pl-vo,
+.obsidian .gist .pl-vpf {
+    color: #e0e2e4;
+}
+.obsidian .gist .pl-c,
+.obsidian .gist .pl-c span {
+    color: #66747b;
+    font-style: italic;
+}
+.obsidian .gist .pl-mb {
+    color: #ec7600;
+    font-weight: 700;
+}
+.obsidian .gist .pl-mh .pl-en {
+    color: #66747b;
+    font-weight: 700;
+}
+.obsidian .gist .pl-mi {
+    color: #93c763;
+    font-style: italic;
+}
+.obsidian .gist .pl-sc {
+    color: #96989a;
+}
+.obsidian .gist .pl-st {
+    color: #da4236;
+}
+.obsidian .gist .pl-c1>.pl-c1 {
+    color: #678cb1;
+}
+.obsidian .gist .pl-c1,
+.obsidian .gist .pl-sr .pl-cce {
+    color: #ffcd22;
+}
+.obsidian .gist .pl-e,
+.obsidian .gist .pl-k,
+.obsidian .gist .pl-mdh,
+.obsidian .gist .pl-mdr,
+.obsidian .gist .pl-ml,
+.obsidian .gist .pl-mm,
+.obsidian .gist .pl-mo,
+.obsidian .gist .pl-mp,
+.obsidian .gist .pl-mr,
+.obsidian .gist .pl-ms,
+.obsidian .gist .pl-s1 .pl-v,
+.obsidian .gist .pl-s3 {
+    color: #93c763;
+}
+.obsidian .gist .pl-en,
+.obsidian .gist .pl-v {
+    color: #678cb1;
+}
+.obsidian .gist .pl-mh,
+.obsidian .gist .pl-mq {
+    color: #66747b;
+}
+.obsidian .gist .pl-pds,
+.obsidian .gist .pl-s,
+.obsidian .gist .pl-s1 .pl-pse .pl-s2,
+.obsidian .gist .pl-sv {
+    color: #ec7600;
+}
+.obsidian .gist .pl-sr,
+.obsidian .gist .pl-sr .pl-sra,
+.obsidian .gist .pl-sr .pl-sre,
+.obsidian .gist .pl-src {
+    color: #d39745;
+}
+.obsidian .gist .pl-mi1,
+.obsidian .gist .pl-mdht {
+    color: #e0e2e4;
+    background: rgba(0, 64, 0, .5);
+}
+.obsidian .gist .pl-md,
+.obsidian .gist .pl-mdhf,
+.obsidian .gist .pl-id,
+.obsidian .gist .pl-ii {
+    color: #e0e2e4;
+    background: rgba(64, 0, 0, .5);
+}

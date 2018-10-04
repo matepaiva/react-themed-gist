@@ -1,0 +1,149 @@
+.tomorrow-night .gist .highlight {
+    background: #1d1f21;
+}
+.tomorrow-night .gist .blob-num,
+.tomorrow-night .gist .blob-code-inner {
+    color: #c5c8c6;
+}
+.tomorrow-night .gist .pl-enti {
+    color: #f0c674;
+    font-weight: 700;
+}
+.tomorrow-night .gist .pl-s3 {
+    color: #81a2be;
+}
+.tomorrow-night .gist .pl-sf {
+    color: #dad085;
+}
+.tomorrow-night .gist .pl-mdr {
+    color: #de935f;
+    font-weight: 400;
+}
+.tomorrow-night .gist .pl-ms1 {
+    background: #c5c8c6;
+}
+.tomorrow-night .gist .pl-c,
+.tomorrow-night .gist .pl-c span,
+.tomorrow-night .gist .pl-pdc {
+    color: #969896;
+    font-style: italic;
+}
+.tomorrow-night .gist .pl-c1,
+.tomorrow-night .gist .pl-cce,
+.tomorrow-night .gist .pl-cn,
+.tomorrow-night .gist .pl-coc,
+.tomorrow-night .gist .pl-enc,
+.tomorrow-night .gist .pl-ens,
+.tomorrow-night .gist .pl-kos,
+.tomorrow-night .gist .pl-kou,
+.tomorrow-night .gist .pl-mh .pl-pdh,
+.tomorrow-night .gist .pl-mq,
+.tomorrow-night .gist .pl-pdc1,
+.tomorrow-night .gist .pl-pde,
+.tomorrow-night .gist .pl-pse,
+.tomorrow-night .gist .pl-pse .pl-s2,
+.tomorrow-night .gist .pl-scp,
+.tomorrow-night .gist .pl-stp,
+.tomorrow-night .gist .pl-sv,
+.tomorrow-night .gist .pl-v,
+.tomorrow-night .gist .pl-vi,
+.tomorrow-night .gist .pl-vpf,
+.tomorrow-night .gist .pl-mri,
+.tomorrow-night .gist .pl-va,
+.tomorrow-night .gist .pl-vpu {
+    color: #de935f;
+}
+.tomorrow-night .gist .pl-cos,
+.tomorrow-night .gist .pl-ml,
+.tomorrow-night .gist .pl-pds,
+.tomorrow-night .gist .pl-s1,
+.tomorrow-night .gist .pl-sol {
+    color: #b5bd68;
+}
+.tomorrow-night .gist .pl-e,
+.tomorrow-night .gist .pl-ef,
+.tomorrow-night .gist .pl-en,
+.tomorrow-night .gist .pl-enf,
+.tomorrow-night .gist .pl-enm,
+.tomorrow-night .gist .pl-entc,
+.tomorrow-night .gist .pl-eoi,
+.tomorrow-night .gist .pl-smc {
+    color: #f0c674;
+}
+.tomorrow-night .gist .pl-ent,
+.tomorrow-night .gist .pl-eoa,
+.tomorrow-night .gist .pl-eoai,
+.tomorrow-night .gist .pl-eoai .pl-pde,
+.tomorrow-night .gist .pl-k,
+.tomorrow-night .gist .pl-ko,
+.tomorrow-night .gist .pl-kolp,
+.tomorrow-night .gist .pl-mc,
+.tomorrow-night .gist .pl-mr,
+.tomorrow-night .gist .pl-ms,
+.tomorrow-night .gist .pl-s,
+.tomorrow-night .gist .pl-mp .pl-s3,
+.tomorrow-night .gist .pl-sok,
+.tomorrow-night .gist .pl-sra,
+.tomorrow-night .gist .pl-src,
+.tomorrow-night .gist .pl-sre,
+.tomorrow-night .gist .pl-st {
+    color: #b294bb;
+}
+.tomorrow-night .gist .pl-entm,
+.tomorrow-night .gist .pl-eoac,
+.tomorrow-night .gist .pl-eoac .pl-pde,
+.tomorrow-night .gist .pl-mai .pl-sf,
+.tomorrow-night .gist .pl-mm,
+.tomorrow-night .gist .pl-pdv,
+.tomorrow-night .gist .pl-som,
+.tomorrow-night .gist .pl-sr,
+.tomorrow-night .gist .pl-vo {
+    color: #c66;
+}
+.tomorrow-night .gist .pl-mb,
+.tomorrow-night .gist .pl-pdb {
+    color: #b5bd68;
+    font-weight: 700;
+}
+.tomorrow-night .gist .pl-mi,
+.tomorrow-night .gist .pl-pdi {
+    color: #b294bb;
+    font-style: italic;
+}
+.tomorrow-night .gist .pl-mp,
+.tomorrow-night .gist .pl-mp1 .pl-sf {
+    color: #81a2be;
+}
+.tomorrow-night .gist .pl-s2,
+.tomorrow-night .gist .pl-sc,
+.tomorrow-night .gist .pl-smi,
+.tomorrow-night .gist .pl-smp,
+.tomorrow-night .gist .pl-stj,
+.tomorrow-night .gist .pl-mo,
+.tomorrow-night .gist .pl-entl {
+    color: #c5c8c6;
+}
+.tomorrow-night .gist .pl-mi1,
+.tomorrow-night .gist .pl-mdht {
+    color: #8f9d6a;
+    background: rgba(0, 64, 0, .5);
+}
+.tomorrow-night .gist .pl-md,
+.tomorrow-night .gist .pl-mdhf {
+    color: #c66;
+    background: rgba(64, 0, 0, .5);
+}
+.tomorrow-night .gist .pl-mdh,
+.tomorrow-night .gist .pl-mdi {
+    color: #c66;
+    font-weight: 400;
+}
+.tomorrow-night .gist .pl-ib,
+.tomorrow-night .gist .pl-iu {
+    background: #c66;
+}
+.tomorrow-night .gist .pl-id,
+.tomorrow-night .gist .pl-ii {
+    background: #c66;
+    color: #fff;
+}

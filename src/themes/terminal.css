@@ -1,0 +1,103 @@
+.terminal .gist .highlight {
+    background: #000;
+}
+.terminal .gist .blob-num,
+.terminal .gist .blob-code-inner,
+.terminal .gist .pl-en,
+.terminal .gist .pl-sc,
+.terminal .gist .highlight-source-css .pl-k,
+.terminal .gist .highlight-source-css .pl-ent {
+    color: #dedede;
+}
+.terminal .gist .pl-c,
+.terminal .gist .pl-c span {
+    color: #ff4500;
+    font-style: italic;
+}
+.terminal .gist .pl-mb {
+    color: #e78c45;
+    font-weight: 700;
+}
+.terminal .gist .pl-mh .pl-en {
+    color: #b9ca4a;
+    font-weight: 700;
+}
+.terminal .gist .pl-mi {
+    color: #ff6347;
+    font-style: italic;
+}
+.terminal .gist .pl-mq {
+    color: #ff4500;
+}
+.terminal .gist .pl-id {
+    color: #ced2cf;
+    background: #b798bf;
+}
+.terminal .gist .pl-ii {
+    color: #ff0;
+    background: red;
+}
+.terminal .gist .highlight-source-js .pl-k {
+    color: #ff1493;
+}
+.terminal .gist .pl-c1,
+.terminal .gist .pl-s1 .pl-pse .pl-s2,
+.terminal .gist .pl-sv,
+.terminal .gist .pl-vpf {
+    color: #e78c45;
+}
+.terminal .gist .pl-e,
+.terminal .gist .pl-s3,
+.terminal .gist .pl-sr,
+.terminal .gist .pl-sr .pl-sra,
+.terminal .gist .pl-sr .pl-sre,
+.terminal .gist .pl-src,
+.terminal .gist .pl-v,
+.terminal .gist .highlight-text-html-basic .pl-ent,
+.terminal .gist .highlight-text-html-php .pl-vo {
+    color: #d54e53;
+}
+.terminal .gist .pl-ent,
+.terminal .gist .pl-k,
+.terminal .gist .pl-mdh,
+.terminal .gist .pl-mdr,
+.terminal .gist .pl-ml,
+.terminal .gist .pl-mm,
+.terminal .gist .pl-mo,
+.terminal .gist .pl-mp,
+.terminal .gist .pl-mr,
+.terminal .gist .pl-ms,
+.terminal .gist .pl-s,
+.terminal .gist .pl-s1 .pl-v,
+.terminal .gist .pl-st {
+    color: #ff6347;
+}
+.terminal .gist .pl-mh,
+.terminal .gist .pl-pds,
+.terminal .gist .pl-s1,
+.terminal .gist .pl-sr .pl-cce {
+    color: #b9ca4a;
+}
+.terminal .gist .pl-s1 .pl-s2,
+.terminal .gist .pl-smi,
+.terminal .gist .pl-smp,
+.terminal .gist .pl-stj,
+.terminal .gist .pl-vo,
+.terminal .gist .highlight-text-html-php .pl-s3,
+.terminal .gist .highlight-source-python .pl-s3 {
+    color: #7aa6da;
+}
+.terminal .gist .pl-mi1,
+.terminal .gist .pl-mdht {
+    color: #dedede;
+    background: rgba(0, 64, 0, .5);
+}
+.terminal .gist .pl-md,
+.terminal .gist .pl-mdhf {
+    color: #dedede;
+    background: red;
+}
+.terminal .gist .highlight-source-css .pl-s3,
+.terminal .gist .highlight-source-css .pl-sc {
+    color: #e7c547;
+}

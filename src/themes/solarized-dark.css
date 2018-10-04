@@ -1,0 +1,88 @@
+.solarized-dark .gist .highlight {
+    background: #002b36;
+}
+.solarized-dark .gist .blob-num,
+.solarized-dark .gist .blob-code-inner,
+.solarized-dark .gist .pl-s1 .pl-s2,
+.solarized-dark .gist .pl-smi,
+.solarized-dark .gist .pl-smp,
+.solarized-dark .gist .pl-stj,
+.solarized-dark .gist .pl-vo,
+.solarized-dark .gist .pl-vpf {
+    color: #839496;
+}
+.solarized-dark .gist .pl-c,
+.solarized-dark .gist .pl-c span {
+    color: #586e75;
+    font-style: italic;
+}
+.solarized-dark .gist .pl-mb {
+    color: #2aa198;
+    font-weight: 700;
+}
+.solarized-dark .gist .pl-mh .pl-en {
+    color: #cb4b16;
+    font-weight: 700;
+}
+.solarized-dark .gist .pl-mi {
+    color: #859900;
+    font-style: italic;
+}
+.solarized-dark .gist .pl-c1,
+.solarized-dark .gist .pl-pds,
+.solarized-dark .gist .pl-s1,
+.solarized-dark .gist .pl-s1 .pl-pse .pl-s2,
+.solarized-dark .gist .pl-sv {
+    color: #2aa198;
+}
+.solarized-dark .gist .pl-e,
+.solarized-dark .gist .pl-en,
+.solarized-dark .gist .pl-ent,
+.solarized-dark .gist .pl-s,
+.solarized-dark .gist .pl-v {
+    color: #268bd2;
+}
+.solarized-dark .gist .pl-k,
+.solarized-dark .gist .pl-mdh,
+.solarized-dark .gist .pl-mdr,
+.solarized-dark .gist .pl-ml,
+.solarized-dark .gist .pl-mm,
+.solarized-dark .gist .pl-mo,
+.solarized-dark .gist .pl-mp,
+.solarized-dark .gist .pl-mr,
+.solarized-dark .gist .pl-ms,
+.solarized-dark .gist .pl-s1 .pl-v,
+.solarized-dark .gist .pl-s3 {
+    color: #859900;
+}
+.solarized-dark .gist .pl-mh,
+.solarized-dark .gist .pl-sc,
+.solarized-dark .gist .pl-sr .pl-cce {
+    color: #cb4b16;
+}
+.solarized-dark .gist .pl-mq,
+.solarized-dark .gist .highlight-source-css .pl-k {
+    color: #586e75;
+}
+.solarized-dark .gist .pl-sr,
+.solarized-dark .gist .pl-sr .pl-sra,
+.solarized-dark .gist .pl-sr .pl-sre,
+.solarized-dark .gist .pl-src {
+    color: #d30102;
+}
+.solarized-dark .gist .pl-st,
+.solarized-dark .gist .highlight-source-c\+\+ .pl-s {
+    color: #dc322f;
+}
+.solarized-dark .gist .pl-mi1,
+.solarized-dark .gist .pl-mdht {
+    color: #839496;
+    background: rgba(0, 64, 0, .5);
+}
+.solarized-dark .gist .pl-md,
+.solarized-dark .gist .pl-mdhf,
+.solarized-dark .gist .pl-id,
+.solarized-dark .gist .pl-ii {
+    color: #839496;
+    background: rgba(64, 0, 0, .5);
+}
