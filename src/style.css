@@ -13,10 +13,12 @@
 @import './themes/twilight.css';
 
 .themed-gist {
-  margin: 20px;
-  font: 16px 'Open Sans', sans-serif;
 }
 
 .hide-meta .gist-meta {
   display: none;
+}
+
+.hide-meta .gist-file {
+  border: none !important;
 }
